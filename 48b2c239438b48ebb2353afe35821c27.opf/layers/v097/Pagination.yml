@@ -1843,43 +1843,43 @@ annotations:
     reference: ''
     span:
       start: 362340
-      end: 364210
+      end: 364221
   53b6ada86b734320a5d4e9d5fc5bad88:
     imgnum: 1185
     reference: ''
     span:
-      start: 364212
-      end: 366110
+      start: 364223
+      end: 366121
   3de428b6898e4a7abeef31a2a5631d74:
     imgnum: 1186
     reference: ''
     span:
-      start: 366112
-      end: 368083
+      start: 366123
+      end: 368094
   d1f66049dee8435b988496b02d099138:
     imgnum: 1187
     reference: ''
     span:
-      start: 368085
-      end: 369831
+      start: 368096
+      end: 369842
   2469dda7a4b64b41a64db8f217612ccf:
     imgnum: 1188
     reference: ''
     span:
-      start: 369833
-      end: 371525
+      start: 369844
+      end: 371536
   6cf0aeff0c0146b38b16ac7f2d475244:
     imgnum: 1189
     reference: ''
     span:
-      start: 371527
-      end: 373305
+      start: 371538
+      end: 373316
   43b879563b24405496aa5e1cc0b52b54:
     imgnum: 1190
     reference: ''
     span:
-      start: 373307
-      end: 373676
+      start: 373318
+      end: 373687
 local_ids:
   e1d0925ee39849c59f96b14fe717634b: 200000
   1fa3282dde224601b22983888c5fbcb0: 200001
